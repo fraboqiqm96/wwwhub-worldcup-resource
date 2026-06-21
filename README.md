@@ -1,2 +1,14 @@
 # wwwhub-worldcup-resource
-HTML page archive and documentation
+
+独立页面发布说明
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
